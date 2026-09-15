@@ -1,0 +1,125 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+:root {
+    font-family: "Open Sans", sans-serif;
+}
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    background-color: #f4f2ee;
+}
+
+#page {
+    max-width: 1120px;
+    margin: 0 auto;
+    padding: 40px;
+    box-sizing:border-box;
+
+}
+
+.legenda-artigo {
+    font-style: italic;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #333;
+    margin-top: 10px;
+    text-align: center;
+    padding: 12px 20px;
+    margin: 16px auto;
+    font-family: Georgia, 'Times New Roman', serif;
+}
+
+p {
+    font-size: 16px;
+    line-height: 1.5;
+    color: #333;
+    margin-top: 10px;
+    text-align: justify;
+    padding: 12px 20px;
+    margin: 16px auto;
+    font-family: Georgia, 'Times New Roman', serif;
+}
+
+.headline {
+    color: #E1624F;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 16px;
+    font-family: Open Sans, Arial, sans-serif;
+}
+
+h1 {
+    font-size: 36px;
+    color: #333;
+}
+
+
+h2 {
+    font-size: 32px;
+    color: #333;
+}
+
+h3 {
+    font-size: 28px;
+    color: #333;
+}
+
+.textPurple {
+    color: #591B98;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.textPink {
+    color: #E5245E;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.textOrange {
+    color: #E95E10;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.textBlue {
+    color: #0C51A7;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+img {
+    border-radius: 10px;
+    max-width: 100%;
+    height: auto;
+    display: block;
+}
+
+.legenda {
+    font-style: italic;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #333;
+    margin-top: 10px;
+    text-align: center;
+    padding: 12px 20px;
+    margin: 16px auto;
+    font-family: Georgia, 'Times New Roman', serif;
+}
+
+footer {
+    text-align: center;
+    padding-bottom: 16px;
+    background-color: #f4f2ee;
+    color: #333;
+    font-size: 14px;
+}
+
+.icon {
+    display: inline-block;
+    width: 16px;
+    height: 16px;
+    vertical-align: middle;
+}
